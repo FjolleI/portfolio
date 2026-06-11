@@ -1,4 +1,4 @@
-# 📌 Portfolio — Fjolle I
+# 📌 Portfolio — Fjolle Islamaj
 
 ## Python Developer | Backend Systems | Automation | AI Training & Evaluation
 
